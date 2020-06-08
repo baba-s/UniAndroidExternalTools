@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace UniAndroidExternalTools
+namespace Kogane
 {
 	/// <summary>
 	/// External Tools の Android の項目の取得または設定ができる関数

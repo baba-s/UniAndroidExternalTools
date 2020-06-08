@@ -1,4 +1,4 @@
-# Uni Android External Tools
+﻿# Uni Android External Tools
 
 ![2020-05-01_125410](https://user-images.githubusercontent.com/61863367/80780759-03582c00-8bab-11ea-8048-bd71d4751d3c.png)
 
@@ -7,7 +7,7 @@ External Tools の Android の項目の取得または設定ができるパッ�
 ## 使用例
 
 ```cs
-using UniAndroidExternalTools;
+using Kogane;
 using UnityEditor;
 using UnityEngine;
 
